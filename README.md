@@ -4,13 +4,13 @@
 This repository contains code for a project that uses machine learning to predict future gold prices based on historical data. The project is implemented in Python, using the Scikit-learn library for machine learning and Pandas library for data manipulation. The data used for this project is sourced from Kaggle's historical gold prices dataset.
 
 # Dependencies
-The following dependencies are required to run this project:<br>
+The following dependencies are required to run this project
 
-Python 3
-Pandas
-NumPy
-Scikit-learn
-joblib
+1.Python 3
+2.Pandas
+3.NumPy
+4.Scikit-learn
+5.joblib
 
 # Gold Price Prediction
  given some information about dataset like:<br>
